@@ -1,3 +1,9 @@
+xlibinput-calibrator (0.13) stable; urgency=medium
+
+  * update to upstream v0.13
+
+ -- Simon Hyde <simon.hyde@bbc.co.uk>  Thu, 29 Feb 2024 15:51:05 +0000
+
 xlibinput-calibrator (0.11) stable; urgency=medium
 
   * update to upstream v0.11
